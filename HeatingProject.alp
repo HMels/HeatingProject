@@ -1462,6 +1462,14 @@ v_Thouse = v_Qhouse_kWh / p_heatCapacityHouse_kWhpK;
 			<Path><![CDATA[Data/Weather Data.xlsx]]></Path>
 			<ReferencedFromUserCode>false</ReferencedFromUserCode>
 		</Resource>
+		<Resource>
+			<Path><![CDATA[C:/Users/Mels/Models/ESDL]]></Path>
+			<ReferencedFromUserCode>false</ReferencedFromUserCode>
+		</Resource>
+		<Resource>
+			<Path><![CDATA[C:/Users/Mels/Models/ESDL/esdl]]></Path>
+			<ReferencedFromUserCode>false</ReferencedFromUserCode>
+		</Resource>
 	</ModelResources>
     <RequiredLibraryReference>
 		<LibraryName><![CDATA[com.anylogic.libraries.modules.markup_descriptors]]></LibraryName>
